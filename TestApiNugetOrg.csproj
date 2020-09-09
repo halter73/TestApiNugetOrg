@@ -7,4 +7,8 @@
     <!--<TargetFramework>netcoreapp3.1</TargetFramework>-->
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Net.Http.WinHttpHandler" Version="5.0.0-*"></PackageReference>
+  </ItemGroup>
+
 </Project>
